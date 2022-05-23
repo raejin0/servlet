@@ -45,5 +45,6 @@ class MemberRepositoryTest {
 		assertThat(result.size()).isEqualTo(2);
 		assertThat(result).contains(member1, member2);
 
+		System.out.println("branch test");
 	}
 }
