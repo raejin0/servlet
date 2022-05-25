@@ -8,7 +8,7 @@ class ServletApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("commit message test ");
+		System.out.println("commit message test");
 
 
 	}
